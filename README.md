@@ -1,0 +1,1 @@
+This repository contains a simple Python program demonstrating a ZeroDivisionError and its solution using exception handling. The `bug.py` file contains code that attempts to divide by zero, resulting in an error. The `bugSolution.py` file provides the corrected code, using a `try-except` block to gracefully handle the error and prevent program termination.
